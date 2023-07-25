@@ -33,10 +33,4 @@ This project aims to detect malaria cells in microscopic images using MATLAB. It
 
 The `test_images` folder contains sample infected and non-infected microscopic images. You can use these images to test the malaria detection algorithm.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to modify and adapt the code to suit your needs. Contributions are welcome!
-
-# MalariaDetector
